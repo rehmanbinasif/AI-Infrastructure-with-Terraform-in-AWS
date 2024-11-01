@@ -1,1 +1,0 @@
-# AI-Infrastructure-with-Terraform-in-AWS
